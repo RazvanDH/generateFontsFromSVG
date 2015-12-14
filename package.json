@@ -1,0 +1,15 @@
+{
+  "name": "generateFontsFromSVG",
+  "version": "0.0.1",
+  "description": "Quick way to generate icon fonts from SVGs",
+  "license": "Commercial",
+  "repository": "https://github.com/RazvanDH/generateFontsFromSVG",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-iconfont": "^1.0.0",
+    "gulp-rename": "^1.2.0",
+    "gulp-template": "^2.1.0",
+    "run-sequence": "^1.0.2"
+  }
+}
